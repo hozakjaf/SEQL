@@ -12,7 +12,7 @@ Local server like xampp, mamp or wampp
 
 
 Unzip package<br />
-Put it in Htdocs<br />
+Copy files to Htdocs<br />
 Change MYSQLUSER and MYSQLPASS in main.php<br />
 
 
