@@ -1,20 +1,23 @@
 # SEQL
 A lightweight SQL tool
 
-SEQL 1.0.0
+Version 1.0.0
 
-Requirements:
+<h2>Requirements:</h2>
 
-Local server like xampp, mamp, wampp
+Local server like xampp, mamp or wampp
 
-Installation:
 
-Unzip package
-Put it in Htdocs
-Change MYSQLUSER and MYSQLPASS in main.php
+<h2>Installation:</h2>
 
-Plugins used:
 
-jquery-linedtextarea.js
-wow.js
-animate.css
+Unzip package<br />
+Put it in Htdocs<br />
+Change MYSQLUSER and MYSQLPASS in main.php<br />
+
+
+<h2>Plugins used:</h2>
+
+jquery-linedtextarea.js<br />
+wow.js<br />
+animate.css<br />
