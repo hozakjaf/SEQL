@@ -21,3 +21,6 @@ Change MYSQLUSER and MYSQLPASS in main.php<br />
 jquery-linedtextarea.js<br />
 wow.js<br />
 animate.css<br />
+
+SEQL is made out of SID.<br />
+SID was originally made by: Bill Weiman.
